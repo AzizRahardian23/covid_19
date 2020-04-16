@@ -1,0 +1,115 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all/.css";
+body{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #34495e;
+    color: bisque;
+}
+
+body h1{
+    color: bisque;
+    font-family: initial;
+    font-size: 50px;
+}
+.login-box{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}       
+
+.login-box1{
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+}       
+
+
+.login-box h1{
+    float: center;
+    font-size: 20px;
+    border-bottom: 6px solid skyblue;
+    margin-bottom: 60px;
+    padding: 15px 0;
+    
+}
+
+.login-box1 h2{
+    width: 450px;
+    height: 60px;
+    float: center;
+    font-size: 40px;
+}
+.textbox{
+    width: 300px;
+    padding: 30px;
+    overflow: hidden;
+    font-size: 10px;
+    padding: 8px 0;
+    margin : 8px 0;
+    border-bottom: 1px solid skyblue;
+}
+.textbox1{
+    width: 100%;
+    overflow: hidden;
+    font-size: 10px;
+    padding: 8px 0;
+    margin : 8px 0;
+    border-bottom: 1px solid skyblue;
+}
+.textbox i{
+    width: 20px;
+    float: left;
+    text-align: center;
+}
+.textbox input{
+    border: none;
+    outline: none;
+    background: none;
+    color: bisque;
+    font-size:20px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.btn{
+    top: 50%;
+    left: 90%;
+    background: none;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    cursor:pointer ;
+    margin: 10px 0;
+}
+
+.bbtn{
+    position: absolute;
+    color: white;
+    border-radius: 50px;
+    background: none;
+    cursor: pointer;
+    top: 60%;
+    left: 37%;
+    margin: -70px 0px ;
+    padding: 20px;
+    font-size: 30px;
+    
+}
+
+
+.bodyjawab{
+    width: 50px;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #2a3132;
+    color: bisque;
+}
